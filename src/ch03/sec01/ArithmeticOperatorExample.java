@@ -18,6 +18,6 @@ public class ArithmeticOperatorExample {
         System.out.println("reseult2: " + (v1 + v2 - v4)); // 4
 
 
-        System.out.println("result3 " + ((double)v1/v2));
+//        System.out.println("result3 " + ((double)v1/v2));
     }
 }
