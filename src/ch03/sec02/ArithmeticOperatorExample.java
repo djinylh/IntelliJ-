@@ -1,4 +1,4 @@
-package ch03.sec01;
+package ch03.sec02;
 
 public class ArithmeticOperatorExample {
     public static void main(String[] args) {
@@ -19,5 +19,7 @@ public class ArithmeticOperatorExample {
 
 
 //        System.out.println("result3 " + ((double)v1/v2));
+        int result7 = v1 % v2;
+        System.out.println(result7); // 2
     }
 }
