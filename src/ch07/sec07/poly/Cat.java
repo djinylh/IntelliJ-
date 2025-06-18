@@ -1,6 +1,4 @@
-package ch07.sec07.polly;
-
-import java.sql.SQLOutput;
+package ch07.sec07.poly;
 
 public class Cat extends Animal {
     @Override
